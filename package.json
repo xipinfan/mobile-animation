@@ -1,0 +1,15 @@
+{
+  "name": "mobile-animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@umijs/mako": "^0.8.0",
+    "lerna": "^8.1.8"
+  },
+  "dependencies": {}
+}
